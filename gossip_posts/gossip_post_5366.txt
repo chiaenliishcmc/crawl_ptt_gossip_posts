@@ -1,0 +1,207 @@
+作者: STAV72 (刁民黨黨務主委)
+標題: [新聞] 發現可攻克骨質疏鬆機制的超級激素
+時間: Fri Jul 26 19:26:57 2024
+
+備註請放最後面 違者新聞文章刪除
+1.媒體來源:
+外媒    sciencealert
+2.記者署名:
+CARLY CASSELLA
+3.完整新聞標題:
+Scientists Discover a New Hormone That Makes Super-Strong Bones
+科學家發現一種新的激素，可以讓骨骼變得超強
+4.完整新聞內文:
+Scientists Discover a New Hormone That Makes Super-Strong Bones
+HEALTH
+26 July 2024
+By CARLY CASSELLA
+Mammal mothers give up a lot to care for their young. To nourish their
+newborns with milk, their bodies pull calcium from their very own bones.
+Scientists have long wondered why mothers' skeletons don't crumple under the
+pressure, and US researchers led by the University of California, San
+Francisco (UCSF) think they have solved the mystery.
+科學家發現一種新的激素，可以讓骨骼變得超強
+健康
+2024 年 7 月 26 日
+經過卡莉·卡塞拉
+哺乳動物母親為了照顧幼崽而放棄了很多。為了用牛奶滋養新生兒，他們的身體從自己的
+骨骼中提取鈣。
+長期以來，科學家一直想知道為什麼母親的骨骼在壓力下不會崩潰，由加州大學舊金山分
+校 (UCSF) 領導的美國研究人員認為他們已經解開了這個謎團。
+The team has discovered a whole new hormone in female mice that promotes the
+growth of astonishingly strong and dense bones.
+Neuroscientists have named it the maternal brain hormone (MBH), though it
+works to build strong and healthy bones in mice of all ages and sexes.
+研究團隊在雌性小鼠體內發現了一種全新的激素，可以促進極其堅固和緻密的骨骼的生長
+。
+神經科學家將其命名為母腦激素（MBH），儘管它可以幫助所有年齡和性別的小鼠建立強
+壯健康的骨骼。
+"One of the remarkable things about these findings is that if we hadn't been
+studying female mice, which unfortunately is the norm in biomedical research,
+then we could have completely missed out on this finding," says
+pharmacologist Holly Ingraham, who is head of her own lab at UCSF.
+"It underscores just how important it is to look at both male and female
+animals across the lifespan to get a full understanding of biology."
+「這些發現的一個值得注意的事情是，如果我們沒有研究雌性小鼠，不幸的是，這在生物
+醫學研究中是常態，那麼我們可能會完全錯過這一發現，」該研究的負責人、藥理學家
+Holly Ingraham說
+“它強調了觀察雄性和雌性動物整個生命週期對於充分了解生物學的重要性。”
+Today, male brains have been the focus of the vast majority of brain
+research, and only 2 percent of published neuroimaging studies have examined
+hormonal factors, like sex steroids.
+Estrogen is a bone-building sex steroid with widespread impacts on the brain.
+While it rises and falls throughout life, estrogen is produced in lower
+quantities after menopause, leaving older women vulnerable to the
+bone-weakening effects of osteoporosis.
+如今，男性大腦已成為絕大多數大腦研究的焦點，而在已發表的神經影像學研究中，只
+有 2%檢查了荷爾蒙因素，例如性類固醇。
+雌激素是一種增強骨骼的性類固醇，對大腦有廣泛的影響。雖然雌激素在一生中都會上升
+和下降，但停經後雌激素的產生量會減少，這使得老年女性容易受到骨質疏鬆症的影響。
+Estrogen levels drop when a person is breastfeeding as well, which also slows
+bone growth. Meanwhile, the mother's body leeches or 'resorbs' calcium from
+the skeleton to continue feeding their newborn, which ought to further put
+bones at risk.
+In 2019, Ingraham's lab at UCSF were surprised to find that when estrogen was
+blocked from a specific part of the female mouse brain, it actually improved
+the animal's bone strength significantly.
+當一個人哺乳時，雌激素水平也會下降，這也會減緩骨骼生長。同時，母親的身體會從骨
+骼中吸收或「吸收」鈣，以繼續餵養新生兒，這應該會進一步使骨骼面臨風險。
+2019年，加州大學舊金山分校英格拉漢姆實驗室驚訝地發現，當雌性小鼠大腦特定部位的
+雌激素被阻斷時，實際上顯著提高了動物的骨骼強度。
+It seemed that some other bone-building hormone was replacing the estrogen,
+and now researchers have found it.
+The maternal brain hormone, or MBH, is a known protein called CCN3. Secreted 
+by neurons in a part of the brain called the arcuate nucleus, it is involved 
+in reproduction and puberty.
+似乎其他一些造骨激素正在取代雌激素，現在研究人員已經找到了它。
+母體腦激素 (MBH) 是一種已知的蛋白質，稱為 CCN3。它由大腦中稱為弓狀核的部分的神
+經元分泌，參與生殖和青春期。
+During normal lactation in mice, the production of MBH from these neurons
+surges as estrogen falls.
+MBH was found to stimulate stem cell activity in mouse and human bone tissue
+in the lab. In living mice of all ages and sexes, a rise in MBH boosted bone
+remodeling and accelerated fracture repair.
+在小鼠正常哺乳期間，隨著雌激素的下降，這些神經元產生的 MBH 會激增。
+實驗室發現 MBH 可以刺激小鼠和人類骨組織中的幹細胞活性。在所有年齡和性別的活體
+小鼠中，MBH 的增加促進了骨重塑並加速了骨折修復。
+This is particularly important for female mice. Feeding a large litter of
+newborns requires a rodent mother to sacrifice nearly 30 percent of her bone
+density.
+Even though the losses normalize when lactation stops and estrogen surges
+once again, the mother and her pups would fare poorly without the
+counteracting nature of MBH. In experiments on living mice, when MBH
+production was artificially inhibited, researchers found the mother lost far
+more bone density than is typical and the pups rapidly lost weight.
+這對於雌性小鼠尤其重要。餵食一窩新生兒需要囓齒動物母親犧牲近 30%的骨密度。
+儘管當哺乳停止和雌激素再次激增時，損失會恢復正常，但如果沒有 MBH 的抵消性質，
+母親和她的幼崽將會表現不佳。在活體小鼠的實驗中，當人為抑制 MBH 的產生時，研究
+人員發現，母親損失的骨密度遠高於正常水平，而幼崽的體重也迅速減輕。
+By contrast, when researchers introduced extra MBH into young adult and old 
+mice, both male and female, the animals showed huge increases in bone mass 
+and strength within weeks.
+For older female mice with very low estrogen levels, MBH treatment more than 
+doubled their bone mass.
+相較之下，當研究人員向年輕的成年小鼠和老年小鼠（無論是雄性還是雌性）引入額外的
+MBH時，這些動物在幾週內就表現出骨量和強度的巨大增加。
+對於雌激素水平非常低的老年雌性小鼠，MBH 治療使它們的骨量增加了一倍以上。
+"There are some situations where highly mineralized bones are not better;
+they can be weaker and actually break more easily," says stem cell biologist
+Thomas Ambrosi from University of California Davis.
+"But when we tested these bones, they turned out to be much stronger than 
+usual. We've never been able to achieve this kind of mineralization and
+healing outcome with any other strategy."
+加州大學戴維斯分校的幹細胞生物學家 Thomas Ambrosi表示： 「在某些情況下，高度礦
+化的骨骼並不更好；它們可能會更脆弱，而且實際上更容易斷裂。
+“但是當我們測試這些骨頭時，結果發現它們比平常堅固得多。我們從未通過任何其他策
+略實現這種礦化和癒合效果。”
+That's not the last of the good news, either. When researchers packaged MBH 
+into a hydrogel patch and applied it directly onto a fractured bone in an 
+older mouse, it promoted bone growth at the site of the fracture.
+Further research is now needed to figure out how well these results translate
+to humans. When breastfeeding, humans temporarily lose about 10 percent of
+their bone density, which is significantly less than in mice.
+這也不是最後一個好消息。當研究人員將 MBH 包裝成水凝膠貼片並將其直接貼在老年小
+鼠的骨折處時，它促進了骨折部位的骨骼生長。
+現在需要進一步的研究來弄清楚這些結果如何轉化為人類。哺乳時，人類的骨密度會暫時
+流失約 10%，明顯低於小鼠。
+"Bone loss happens not only in post-menopausal women but often occurs in
+breast cancer survivors that take certain hormone blockers; in younger,
+highly trained elite female athletes; and in older men whose relative
+survival rate is poorer than women after a hip fracture," explains Ingraham.
+"It would be incredibly exciting if [MBH] could increase bone mass in all
+these scenarios."
+The study was published in Nature.
+「骨質流失不僅發生在停經後女性身上，而且經常發生在服用某些荷爾蒙阻斷劑的乳癌倖
+存者中；年輕的、訓練有素的精英女運動員中；以及髖部骨折後相對存活率低於女性的老
+年男性中， 」英格拉漢姆解釋。
+“如果 [MBH] 能夠在所有這些情況下增加骨量，那將是非常令人興奮的。”
+這項研究發表在《自然》雜誌。
+5.完整新聞連結 (或短網址)不可用YAHOO、LINE、MSN等轉載媒體:
+https://reurl.cc/VMpmZn
+6.備註:
+給直接結尾的小結一下，母體會透過哺乳行為淬出骨骼鈣質，但是透過母腦激素MBH
+可以無視個體性別年齡強化骨密度，甚至直接塗抹在骨折處也有驚人療效。
+
+
+留言:
+
+作者: frommr
+時間: 07/26 19:27
+內容: 亞德曼金屬
+
+作者: brianuser
+時間: 07/26 19:27
+內容: 那麼什麼時候在哪裡才買得到呢
+
+作者: HodorDragon
+時間: 07/26 19:29
+內容: 太好了 我可以一直喝咖啡了
+
+作者: pttouch
+時間: 07/26 19:29
+內容: 有意思，不過好像還很粗淺
+
+作者: adios881
+時間: 07/26 19:30不是喝母乳，是透過刺激女性神經元分泌該激素，不過還不確定能否體外合成。
+內容: 要喝母乳的意思ㄇ
+
+作者: a27588679
+時間: 07/26 19:34
+內容: 金鋼狼
+
+作者: s3552934
+時間: 07/26 19:34
+內容: 魔鬼隊要出來了
+
+作者: amethystboy
+時間: 07/26 19:37
+內容: 現場開放100組來電免費加贈1盒
+
+作者: adios881
+時間: 07/26 19:38
+內容: 好
+
+作者: adios881
+時間: 07/26 19:38
+內容: 謝解惑
+
+作者: Malion
+時間: 07/26 19:41
+內容: 療程一定很貴
+
+作者: eno03
+時間: 07/26 19:42
+內容: 先買Uc2 角角角
+
+作者: god78987
+時間: 07/26 19:47
+內容: 超強有多強？可以比鋼鐵還要硬嗎？
+
+作者: iLeyaSin365
+時間: 07/26 19:50
+內容: 反正臺灣擋人財路還是會被解決掉
+
+作者: gg86300
+時間: 07/26 19:58
+內容: 骨王笑了
+

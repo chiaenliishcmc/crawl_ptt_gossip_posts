@@ -1,0 +1,211 @@
+作者: STAV72 (刁民黨黨務主委)
+標題: [新聞] 混和抗體對208種愛滋毒株保有96%免疫效果
+時間: Mon Jul 29 10:40:42 2024
+
+備註請放最後面 違者新聞文章刪除
+1.媒體來源:
+外媒    sciencealert
+2.記者署名:
+CARLY CASSELLA
+3.完整新聞標題:
+A Hidden Defense Inside Llamas Could Be The Secret to Fighting HIV
+羊駝體內隱藏的免疫機制可能是對抗愛滋病毒的秘訣
+4.完整新聞內文:
+A Hidden Defense Inside Llamas Could Be The Secret to Fighting HIV
+HEALTH
+29 July 2024
+By CARLY CASSELLA
+(Arctic-Images/Getty Images)
+Llamas – those bored-looking, slow-munching camelids from South America –
+are prized for their wool and leather. Yet beneath their fur and skin, these
+domesticated pack animals also hide another powerful tool that humans are
+trying to make use of.
+羊駝體內隱藏的免疫機制可能是對抗愛滋病毒的秘訣
+羊駝—來自南美的那些看起來無聊、咀嚼緩慢的駱駝科動物—因其羊毛和皮革而備受推崇
+。然而，在這些馴養的群居動物的皮毛和皮膚之下，卻隱藏著人類試圖利用的另一個強大
+工具。
+When llamas (Llama glama) are exposed to certain deadly human viruses,
+scientists have found their bodies create powerful immune proteins unlike any
+produced in our own species.
+Using this knowledge, researchers working at the United States National
+Institutes of Health (NIH) have now engineered a human-llama hybrid antibody
+that can subdue one of the craftiest contagions known to humankind: HIV.
+當美洲駝（Llama glama）暴露於某些致命的人類病毒時，科學家發現它們的身體會產生
+強大的免疫蛋白，與我們自己物種產生的任何蛋白質不同。
+利用這些知識，美國國立衛生研究院 (NIH) 的研究人員現已設計出一種人類羊駝雜交抗
+體，可以抑制人類已知的最狡猾的傳染病之一：愛滋病毒。
+The human immunodeficiency virus (HIV) is a wily shapeshifter that can
+quickly evolve to block human antibodies, which are responsible for latching
+onto and restraining foreign threats.
+"Conventional antibodies are bulky, so it's difficult for them to find and
+attack the virus' surface," explains biologist Jianliang Xu from the NIH and
+George State University.
+人類免疫缺陷病毒（HIV）是一種狡猾的變形病毒，可以快速進化以阻止人類抗體，而人
+類抗體負責鎖定和抑制外來威脅。
+美國國立衛生研究院和喬治州立大學的生物學家徐建良解釋說： “傳統抗體體積龐大，
+因此很難找到並攻擊病毒表面。”
+Llama antibodies are different. Like sharks, alpacas, and camels, llamas are
+one of a few animals known to produce extra-small versions of conventional
+antibodies, called nanobodies, which are about a tenth the size.
+These nanobodies are 'light on their feet' and flexible. Their small size and
+elongated shape means they can squeeze between the defenses of a virus to
+smother the most infectious parts of the virus.
+美洲駝抗體是不同的。與鯊魚、羊駝和駱駝一樣，美洲駝是已知能產生超小型傳統抗體（
+稱為奈米抗體）的少數動物之一，大小約為十分之一。
+這些奈米抗體「腳步輕盈」且靈活。它們的小尺寸和細長的形狀意味著它們可以擠在病毒
+的防禦之間，以抑制病毒最具傳染性的部分。
+To stimulate the production of HIV-specific nanobodies, researchers at the 
+NIH injected a part of the HIV-1 envelope into one, single llama 13 times 
+within one year.
+為了刺激 HIV-s 特異性奈米抗體的產生，NIH 的研究人員在一年內將 HIV-1 包膜的一部
+分注射到一隻美洲駝體內 13 次。
+Then, with careful engineering, they took the most potent HIV nanobodies they
+could find and fused them with parts of a broad-acting human antibody for HIV.
+These broadly neutralizing antibodies (bNAbs), which can target multiple
+strains of HIV, were discovered in some human patients in the 1990s. But even
+after nearly four decades of research, scientists have yet to create an HIV
+vaccine or long-acting treatment with bNAbs that can effectively resist the
+virus' mutations.
+然後，透過精心設計，他們採用了他們能找到的最有效的愛滋病毒奈米抗體，並將它們與
+廣泛作用的人類愛滋病毒抗體的部分融合。
+這些廣泛中和抗體 ( bNAb) 可以針對多種 HIV 病毒株，是20 世紀 90 年代在一些人類
+患者中發現的。但即使經過近四十年的研究，科學家仍未發展出能夠有效抵抗病毒突變
+的 HIV 疫苗或長效 bNAb 治療方法。
+On their own, the human antibody and the llama nanobody can neutralize 90 
+percent of HIV-1 strains, though each targets a different part of the virus. 
+Combined, the double-pronged approach is "ultrapotent", the researchers 
+write. The llama-human chimera can suppress 96 percent of 208 HIV strains in 
+the lab.
+人類抗體和羊駝奈米抗體本身可以中和 90% 的 HIV-1 株，儘管各自針對的是病毒的不
+同部位。研究人員寫道，結合起來，雙管齊下的方法是「超有效的」。美洲駝-人類混和
+抗體可以抑制實驗室中 208 種 HIV 病毒株的 96%。
+That's ten times more powerful than a previously engineered human-llama
+antibody, made by some of the same researchers.
+"These nanobodies are the best and most potently neutralizing antibodies to
+date, which I think is very promising for the future of HIV therapeutics and
+antibody research," says biology PhD candidate Payton Chan from Georgia State
+University.
+這比前一代一些研究人員製造的人-羊駝抗體強十倍。
+佐治亞州立大學生物學博士候選人 Payton Chan表示： “這些奈米抗體是迄今為止最好
+、最有效的中和抗體，我認為這對於愛滋病毒治療和抗體研究的未來非常有前景。”
+"I hope one day there will be approval of these nanobodies for the treatment
+of HIV."
+It remains to be seen if the newly engineered llama-human chimera can target
+HIV infection in living animals or humans, but the fact that the treatment
+can bind to two of the virus' most vulnerable spots should make it harder for
+the pathogen to escape the immune system's clutches.
+“我希望有一天這些奈米抗體能夠獲得批准用於治療愛滋病毒。”
+新設計的美洲駝-人類混和抗體是否能夠針對活體動物或人類的愛滋病毒感染還有待觀察，
+但事實上，這種治療方法可以與病毒的兩個最脆弱的點結合，這應該會使病原體更難逃脫
+免疫系統的魔掌。
+Antibody infusions have recently emerged as a promising way of treating,
+preventing, or even curing HIV, but previous studies have found a lasting
+effect requires very specific bnAbs at high doses.
+Perhaps llama nanobodies are a way to make these treatments more potent at
+lower concentrations. How to make the medicine last longer, however, is
+another challenge.
+抗體輸注最近已成為治療、預防甚至治癒HIV 的一種有前途的方法，但先前的研究發現，
+持久的效果需要高劑量的非常特異性的 bnAb。
+也許美洲駝奈米抗體是一種使這些治療在較低濃度下更有效的方法。然而，如何讓藥物的
+持續時間更長是另一個挑戰。
+An antibody treatment for HIV that only needs to be given to patients once a
+year or so could prove highly effective in a clinical setting. Right now,
+these treatments require top-ups every few months.
+Researchers at NIH are now working on engineering new combinations of
+llama-human antibodies to see if they can create a treatment with even more
+powerful effects.
+The study was published in Advanced Science.
+只需每年左右對患者進行一次愛滋病毒抗體治療即可在臨床環境中證明非常有效。目前，
+這些治療方法需要每隔幾個月補充一次。
+美國國立衛生研究院的研究人員目前正在致力於設計新的美洲駝-人類抗體組合，看看它
+們是否能夠創造出一種具有更強大效果的治療方法。
+這項研究發表在《高級科學》雜誌。
+5.完整新聞連結 (或短網址)不可用YAHOO、LINE、MSN等轉載媒體:
+https://reurl.cc/my6W09
+6.備註:
+https://www.youtube.com/watch?v=9wWXIvcarAU
+難怪強尼戴普想要壟斷羊駝市場，直接變疫苗富翁。
+
+
+留言:
+
+作者: HodorDragon
+時間: 07/29 10:41
+內容: 嘔嘔嘔嘔嘔
+
+作者: jamesmile
+時間: 07/29 10:42
+內容: 嘔
+
+作者: vowpool
+時間: 07/29 10:42
+內容: 羊駝雜交 好色喔
+
+作者: BBKOX
+時間: 07/29 10:43
+內容: 甲羊交配
+
+作者: YJM1106
+時間: 07/29 10:43
+內容: 前幾個月不是有100%有效的預防針了嗎？
+
+作者: yiersan
+時間: 07/29 10:44
+內容: 搞半天 原來草泥馬可防毒
+
+作者: Mradult
+時間: 07/29 10:45
+內容: 愛滋真的比癌症好治多了，根本小感冒
+
+作者: WeGoStyle
+時間: 07/29 10:48
+內容: 會不會跑去搞羊駝…
+
+作者: BravoStar
+時間: 07/29 10:52
+內容: 直接幹草泥馬
+
+作者: mig
+時間: 07/29 10:53
+內容: 屁眼派對開起來
+
+作者: Leoreo
+時間: 07/29 11:13
+內容: 煉蠱甲甲：接受挑戰
+
+作者: viake
+時間: 07/29 11:13
+內容: 羊駝還能這樣用...?
+
+作者: potionx
+時間: 07/29 11:16
+內容: 半獸人不遠了
+
+作者: AustinRivers
+時間: 07/29 11:16
+內容: 會一直吐口水嗎
+
+作者: EfiwymsiAros
+時間: 07/29 11:19
+內容: 樓下要不要幹羊駝
+
+作者: zip00000
+時間: 07/29 11:41
+內容: 笑死 我也是想到讓病患去幹羊駝
+
+作者: jimmykuo123
+時間: 07/29 11:48
+內容: 消滅96% 還有4%阿 最後4%又流行放大
+
+作者: jimmykuo123
+時間: 07/29 11:49
+內容: 跟新冠一樣一直變種
+
+作者: sd90213
+時間: 07/29 18:21
+內容: 甲羊甲怪
+
+作者: Lumia5566
+時間: 07/29 19:29
+內容: 屁精病
+
